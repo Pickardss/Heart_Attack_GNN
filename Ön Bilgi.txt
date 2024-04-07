@@ -1,0 +1,39 @@
+Projenin Özeti:
+
+Bu projede, kalp hastalıklarına dair bir veri setini Çizge Sinir Ağları (Graph Neural Networks) kullanarak eğiteceğiz. 
+Veri seti üzerindeki analizlerimiz sonucunda, hastalıklı ve sağlıklı durumları belirleyerek çıktılar üreteceğiz. 
+Bu çıktılar, kalp hastalıklarının teşhisinde ve tedavisinde kullanılabilecek değerli bilgiler sağlayacak.
+
+---------------------------------
+
+Projenin Amaç ve Kapsamı:
+
+Projenin amacı, kalp hastalıklarının teşhisi ve sınıflandırılmasında yapay zeka tekniklerini kullanarak verimli ve doğru sonuçlar elde etmektir.
+Bu amaç doğrultusunda, mevcut bir kalp hastalığı veri seti üzerinde Çizge Sinir Ağları (Graph Neural Networks) yöntemini kullanarak bir model eğitilecek ve bu modelin kalp hastalıklarını doğru şekilde teşhis etme yeteneği test edilecektir. 
+Bu projenin kapsamı, GNN'nin kalp hastalıklarının teşhisi için nasıl kullanılabileceğini anlamak, modelin eğitilmesi ve doğrulanması için gerekli adımları içermektedir.
+Sonuç olarak, projenin başarısı, GNN'nin kalp hastalıklarının teşhisinde etkinliğini ve doğruluğunu gösterecektir.
+
+---------------------------------
+
+Projenin Özgün Değeri:
+
+Projemizin özgün değeri, kalp hastalıklarının teşhisinde ve tedavisinde kullanılan geleneksel yöntemlerin ötesine geçerek, Çizge Sinir Ağları (GNN) gibi yeni ve yükselen bir teknolojiyi kullanarak daha etkili bir çözüm sunmasıdır.
+GNN'ler, karmaşık ilişkileri modellemek için idealdir ve bu nedenle kalp hastalıklarının karmaşıklığını daha iyi anlamamıza ve daha doğru sonuçlar üretmemize yardımcı olabilirler. 
+Bu proje, mevcut literatürdeki diğer çalışmalardan farklı olarak GNN'leri kalp hastalıklarının analizinde kullanarak daha özgün ve etkili bir yaklaşım sunmaktadır. 
+Bu sayede, kalp hastalıklarının teşhis ve tedavisinde yeni bir bakış açısı getirerek sağlık alanında önemli bir katkı sağlamayı amaçlamaktayız.
+
+---------------------------------
+
+Kullanılacak Yazılım Araçları:
+
+Programlama Dili: Python, veri analizi, model eğitimi ve sonuçların değerlendirilmesi için kullanılacaktır.
+
+Çizge Sinir Ağı Kütüphanesi: PyTorch, TensorFlow veya Deep Graph Library (DGL) gibi GNN'leri uygulamak için kullanılabilir. Bu kütüphaneler, karmaşık veri yapılarını işlemek ve ağ yapısını modellemek için gereklidir.
+
+Veri Analizi ve Görselleştirme Kütüphaneleri: Pandas, NumPy ve Matplotlib gibi kütüphaneler veri analizi ve sonuçların görselleştirilmesi için kullanılacaktır.
+
+Veri Seti: Kalp hastalıklarına dair detaylı ve temizlenmiş bir veri seti gereklidir. Bu veri seti, projenin başarılı bir şekilde uygulanabilmesi için temel veri kaynağını oluşturacaktır.
+
+Geliştirme Ortamı: Jupyter Notebook veya PyCharm gibi Python geliştirme ortamları, kodlama sürecini kolaylaştırmak ve verimliliği artırmak için kullanılabilir. Bu ortamlar, kodun test edilmesi, hata ayıklanması ve iyileştirilmesi için idealdir.
+
+Diğer Araçlar: Projenin gereksinimlerine göre ek araçlar da kullanılabilir. Örneğin, veri ön işleme için Scikit-learn veya model performansını değerlendirmek için TensorBoard gibi araçlar projenin farklı aşamalarında kullanılabilir.
